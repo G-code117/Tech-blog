@@ -1,0 +1,19 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "a blog that goes over technicals of a database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tech-blog"
+  },
+  "author": "Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^9.2.0"
+  }
+}
