@@ -1,2 +1,2 @@
 # Tech-blog
-a blog that goes over technicals of a database
+a blog that goes over the technical part of a database
